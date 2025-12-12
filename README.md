@@ -1,13 +1,15 @@
-Tic-Tac-Toe (XOXO)
+**Tic-Tac-Toe (XOXO)**
 
 A modern, interactive, and responsive Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 The project features a sleek UI, animated gameplay, turn-selection controls, and a polished result overlay.
 
 <img width="2879" height="1433" alt="Screenshot 2025-12-12 175129" src="https://github.com/user-attachments/assets/52faf781-9333-4b84-9fe1-306c2d475bb5" />
 
+Play Now https://mgautam-88.github.io/XoXo/
+
 ____________________________
 
-Features
+**Features:**
 1. Player Turn Selection
 
 A toggle button lets players choose:
@@ -57,7 +59,7 @@ Beautiful animated overlay shows the winner.
 Players can reset the board at any time.
 _________________________________
 
-Technologies Used
+**Technologies Used**
 
 HTML5 — game structure
 
@@ -66,7 +68,7 @@ CSS3 — animations, responsiveness, modern UI
 JavaScript (Vanilla) — game logic, event handling, win-check logic
 _________________________
 
-How to Play
+**How to Play**
 
 Choose who starts using the toggle button.
 
@@ -79,6 +81,6 @@ If the board fills with no winner, game ends in a draw.
 Use New Game or Play Again to restart.
 
 Live Demo:
-<link>
+https://mgautam-88.github.io/XoXo/
 
 _____________
