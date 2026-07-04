@@ -54,26 +54,6 @@ A modern, real-time multiplayer Tic-Tac-Toe game with room-based matchmaking, in
 
 ---
 
-## 🎲 "Who Goes First" Chooser
-
-Before every round, players decide who gets the first move.
-
-Options include:
-
-- Select Player 1
-- Select Player 2
-- 🎲 Random selection with a suspense animation
-
-Assignments:
-
-- 🔵 First player → Circle (O)
-- ❤️ Second player → Heart (X)
-
-<!-- Replace with actual screenshot -->
-![First Chooser](https://via.placeholder.com/800x400?text=Who+Goes+First+Chooser+Screenshot)
-
----
-
 ## ❤️ Hand-Drawn SVG Doodles
 
 Instead of traditional X and O:
@@ -185,8 +165,7 @@ Features:
 - Neon effects
 - Mobile-friendly controls
 
-<!-- Replace with actual screenshot -->
-![Responsive Design](https://via.placeholder.com/800x400?text=Responsive+Design+Mobile+%26+Desktop+Screenshot)
+![iPad Air View](assets/iPad_air_view.png) ![iPhone SE View](assets/iPhone_SE_view.png) ![Pixel 7 View](assets/Pixel_7_view.png)
 
 ---
 
